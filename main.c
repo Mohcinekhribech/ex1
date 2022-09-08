@@ -1,12 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-/*int u(int n){
 
-
-
-     return u;
-
-}*/
 int main(){
 
     int n;
